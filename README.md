@@ -6,9 +6,9 @@
 
 Go Off With A Bang has the following axe:
 
-Axis | Tag | Default | Static Instances
---- | --- | --- | ---
-Weight | wght | 400 | Regular
+  Tag | Default | Static Instances
+--- | --- | ---
+  wght | 400 | Regular
 
 ## License
 
