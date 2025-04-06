@@ -14,6 +14,8 @@ Go Off With A Bang has the following axe:
 
 ![Image](docs/image3.png)
 
+![Image](docs/image6.png)
+
 ## Image License
 The images in this repository are licensed under the CC https://creativecommons.org/licenses/by-sa/4.0/
 
